@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:intl_phone_field/countries.dart';
-import 'package:intl_phone_field/helpers.dart';
+import 'package:intl_phone_field_localized/countries.dart';
+import 'package:intl_phone_field_localized/helpers.dart';
 
 class PickerDialogStyle {
   final Color? backgroundColor;
